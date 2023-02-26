@@ -1,1 +1,1 @@
-# Git_workshop
+# Let's learn about Git & GitHub
